@@ -9,8 +9,8 @@
 `SKY`
 
 ```SKY
-1.CIVIC FD2
-2.CIVIC TypeR
+1.CIVIC FD2 :smile:
+2.CIVIC TypeR :+1:
 
 ```
 
