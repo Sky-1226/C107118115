@@ -21,9 +21,10 @@
 [![Everything Is AWESOME](images.jpg)](https://www.youtube.com/watch?v=WbP7Q4LYv7A")
 
 `movie 1`
-[![Everything Is AWESOME](images.jpg)](https://www.youtube.com/watch?v=WbP7Q4LYv7A")
+[![Everything Is AWESOME](https://img.youtube.com/vi/MzlHvhkN1CU/0.jpg)](https://www.youtube.com/watch?v=MzlHvhkN1CU "Everything Is AWESOME")
 
-- [] todo list
+
+- [ ] todo list
 - [x] done
 
 ```python
