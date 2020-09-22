@@ -9,8 +9,8 @@
 ˋSKYˋ
 
 ˋˋˋ
-1.SKY
-2.SKY
+1
+2
 ˋˋˋ
 
 ![NKUST](TypeR.jpg "Honda")
