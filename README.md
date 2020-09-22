@@ -32,3 +32,6 @@ count=[7,6,4,8,9,1,76,10,156]
 anser=str(max(count))
 print(float(anser)**2)
 ```
+
+:smile:
+:+1:
