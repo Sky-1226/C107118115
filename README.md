@@ -35,3 +35,12 @@ print(float(anser)**2)
 
 :smile:
 :+1:
+
+```javacode
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+```pythoncode
+s = "Python syntax highlighting";
+print s
+```
