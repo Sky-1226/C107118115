@@ -19,3 +19,15 @@
 
 `movie`
 [![Everything Is AWESOME](images.jpg)](https://www.youtube.com/watch?v=WbP7Q4LYv7A")
+
+`movie 1`
+[![Everything Is AWESOME](images.jpg)](https://www.youtube.com/watch?v=WbP7Q4LYv7A")
+
+- [] todo list
+- [x] done
+
+```python
+count=[7,6,4,8,9,1,76,10,156]
+anser=str(max(count))
+print(float(anser)**2)
+```
