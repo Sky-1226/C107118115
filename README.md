@@ -14,6 +14,8 @@
 
 ```
 
+`picture`
 ![Honda](TypeR.jpg "Honda")
 
+`movie`
 [![Everything Is AWESOME](images.jpg)](https://www.youtube.com/watch?v=WbP7Q4LYv7A")
