@@ -10,7 +10,7 @@
 
 ```SKY
 1.CIVIC FD2
-2.CIVIC T
+2.CIVIC TypeR
 
 ```
 
